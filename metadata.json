@@ -1,0 +1,6 @@
+{
+  "name": "AI Arena: Human vs Machine",
+  "description": "Outthink the Machine. Secure the Future. The premium competitive cyber-technology game pitting humans against sentient AI across DevSecOps, Cybersecurity, Malware Analysis, and Coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
